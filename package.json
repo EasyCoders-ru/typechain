@@ -1,0 +1,19 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Изучение TypeScript с помощью создания блокчейна.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasyCoders-ru/typechain.git"
+  },
+  "author": "EasyCoders.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EasyCoders-ru/typechain/issues"
+  },
+  "homepage": "https://github.com/EasyCoders-ru/typechain#readme"
+}

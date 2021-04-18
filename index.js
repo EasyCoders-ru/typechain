@@ -1,2 +1,6 @@
-console.log("Привет!");
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const name = "Антон", age = 28, gender = "мужчина";
+const sayHi = (name, age, gender) => console.log(`Привет, ${name}. Тебе ${age} лет и ты ${gender}`);
+sayHi(name, age);
 //# sourceMappingURL=index.js.map

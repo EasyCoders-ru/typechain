@@ -4,6 +4,8 @@
   "description": "Изучение TypeScript с помощью создания блокчейна.",
   "main": "index.js",
   "scripts": {
+    "prestart": "tsc",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
